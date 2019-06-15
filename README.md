@@ -1,4 +1,4 @@
-# Resources
+### Resources
 
 * <b>Get started with data visualization</b> : [Start Here](https://github.com/Praneet460/DataVisualizationPyDelhi)
 * <b>Get Started with machine learning crash course</b> : [Start Here](https://github.com/Praneet460/MLCC)
